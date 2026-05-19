@@ -1,5 +1,4 @@
 # GenAI-Week3-Assignments
-# GenAI Week 3 Assignments
 
 ## Assignment 1 –  Create a Custom GEM (Gemini GPT)
 
